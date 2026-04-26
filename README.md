@@ -1,4 +1,4 @@
-# hey, i'm dion 👋
+# Hey, i'm dion 
 
 **cybersecurity engineering student · victoria university of wellington**
 
@@ -12,10 +12,10 @@ studying **cybersecurity engineering** at VUW with a focus on cryptography, ethi
 
 ### currently studying
 
-- 🔐 **CYBR171** — intro to cybersecurity (crypto, auth, web vulns)
-- ☕ **COMP102** — object-oriented programming in Java  
-- ⚡ **ENGR101** — digital electronics & LMC assembly
-- 📐 **MATH132** — discrete & linear mathematics
+-  **CYBR171** — intro to cybersecurity (crypto, auth, web vulns)
+-  **COMP102** — object-oriented programming in Java  
+-  **ENGR101** — digital electronics & LMC assembly
+-  **MATH132** — discrete & linear mathematics
 
 ---
 
