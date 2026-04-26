@@ -1,4 +1,4 @@
-# Hey, i'm dion 
+# Hey, I'm Dion 
 
 **cybersecurity engineering student · victoria university of wellington**
 
